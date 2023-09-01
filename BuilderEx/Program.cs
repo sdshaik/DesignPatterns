@@ -1,4 +1,5 @@
-﻿public class Car
+﻿
+public class Car
 {
     public string? Type { get; set; }
     public int Seats { get; set; }
